@@ -1,0 +1,27 @@
+1. Waktu tidur usia 6-12 = 10jam 12-18  18-40 =7-8 apabila seseorang berusia 17 taun berapa waktu yang terbaik
+
+2. IMT = kurang dari 18.5 berat badan kurang 
+        dari 18.5 sampai kurang dari 22.9 : Normal
+        Drai 22.9 sampai kurang dari 24.9 :berat lebih
+        lebih dari = 25 : obesitas
+
+        jika beni memiliki berat badan 42kg dengan tinggi badan 148 cm ?
+
+3. Menu di rumah makan
+        Nasi goreng = 15k
+        Ayam bakar = 20k
+        nasi kebuli = 25k
+        esteh = 3000
+        es jeruk = 50000
+
+    Ada program memeberikan diskon sebesar 5% dihari jumat dan2% senin,
+    hitugkal harga yang harus dibayar jika membeli 2 nasi kebuli, 1 ayam bakar, 2 nasi gvoreng menggunkan hari otomatis 
+
+
+4. Dani membangun rumah dengan panjang 13 M dan lebar 9 M tetapi sebelum membangun rumah beni harus memberikan laporan tipe rumah yang dia buat kepada kontraktor bangunan . 
+
+    Tipe 36 : <90 m2
+         45  : 90 - 96
+         54 : 96 - 120
+         60 : 120 - 150
+         70 : > 150
